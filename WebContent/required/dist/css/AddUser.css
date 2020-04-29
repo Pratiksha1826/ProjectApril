@@ -1,0 +1,60 @@
+label{
+font-family: "Times New Roman", Times, serif;
+font-weight:Normal;
+color:black;
+font-size: 20px;
+}
+fieldset {
+	background:    #F5F5DD;
+	border: solid 1px #DAEBA8;
+	box-shadow:0 0 10px #2471a3;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	padding: 6px;
+	align:"center";
+}
+legend.legend_border {
+	background:   #0097a7;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	box-shadow:0 0 10px  #ec7063 ;
+	border-radius: 8px;
+	display: block;
+	padding-left: 10px;
+	padding-right: 0px;
+	color: white;
+}
+select{
+    width: 200px;
+    line-height: inherit;
+    padding: 8px;
+}
+.abc{
+width: inherit;
+}
+.ab{
+    max-width: 40%;
+}
+.deep{
+padding-top: 15px;
+}
+th{
+background-color:#83B581 ;
+}
+td{
+	background-color: #CDE1CD;
+	/* #d1e0e0 */
+}
+.m{
+
+	background:url("../required/assets/images/img2.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-position:center;
+	
+}
+ #m1{
+	    width: 260px;
+	    height: 30px;	
+}
